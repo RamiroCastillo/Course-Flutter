@@ -42,3 +42,27 @@ Captura
         </table>
     </center>
 </div>
+
+Desafio 3 Course Flutter
+========================
+Se realiza la prueba de BottomNavigationBar y tambien el uso de data tables
+
+Captura
+---------
+
+<div align="center">
+    <center>
+        <table border="0">
+            <tr>
+                <td>Primer Tab Página de DataTable</td>
+				<td>Segundo Tab</td>
+				<td>Tercer Tab</td>
+            </tr>
+            <tr>
+                <td><img src="/images_readme/desafio_3_1.jpg" width="250"></td>
+                <td><img src="/images_readme/desafio_3_2.jpg" width="250"></td>
+                <td><img src="/images_readme/desafio_3_3.jpg" width="250"></td>
+            </tr>
+        </table>
+    </center>
+</div>
