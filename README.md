@@ -94,15 +94,13 @@ Captura
                 <td>Patalla 6</td>
                 <td>Patalla 7</td>
                 <td>Patalla 8</td>
-
 			</tr>
             <tr>
                 <td><img src="/images_readme/p5.jpg" width="250"></td>
                 <td><img src="/images_readme/p6.jpg" width="250"></td>
                 <td><img src="/images_readme/p7.jpg" width="250"></td>
                 <td><img src="/images_readme/p8.jpg" width="250"></td>
-            </tr>
-			
+            </tr>			
         </table>
     </center>
 </div>
