@@ -8,22 +8,18 @@ class RankingPage extends StatelessWidget {
     return Scaffold(
       appBar: null,
       body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: const [
-            Icon(
-              Icons.home,
-              size: 150.0,
-              color: Colors.amber,
+        child: Container(
+          decoration: BoxDecoration(
+            image: DecorationImage(
+              image: AssetImage("images/bg-ornament.jpg"),
+              repeat: ImageRepeat.repeat,
             ),
-            SizedBox(
-              height: 20,
-            ),
-            Text(
-              "Ranking",
-              style: TextStyle(fontWeight: FontWeight.bold, fontSize: 30.0),
-            ),
-          ],
+          ),
+          child: Icon(
+            Icons.table_chart,
+            size: 150.0,
+            color: Colors.amber,
+          ),
         ),
       ),
     );

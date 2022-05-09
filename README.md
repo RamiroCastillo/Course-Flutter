@@ -66,3 +66,43 @@ Captura
         </table>
     </center>
 </div>
+
+Mini Proyecto App de Recetas de Cocina Course Flutter
+========================
+Se realiza una pequqña app de recetas de cocina
+
+Captura
+---------
+
+<div align="center">
+    <center>
+        <table border="0">
+            <tr>
+                <td>Patalla 1</td>
+                <td>Patalla 2</td>
+                <td>Patalla 3</td>
+                <td>Patalla 4</td>
+            </tr>
+            <tr>
+                <td><img src="/images_readme/p1.jpg" width="250"></td>
+                <td><img src="/images_readme/p2.jpg" width="250"></td>
+                <td><img src="/images_readme/p3.jpg" width="250"></td>
+                <td><img src="/images_readme/p4.jpg" width="250"></td>
+            </tr>
+			<tr>
+                <td>Patalla 5</td>
+                <td>Patalla 6</td>
+                <td>Patalla 7</td>
+                <td>Patalla 8</td>
+
+			</tr>
+            <tr>
+                <td><img src="/images_readme/p5.jpg" width="250"></td>
+                <td><img src="/images_readme/p6.jpg" width="250"></td>
+                <td><img src="/images_readme/p7.jpg" width="250"></td>
+                <td><img src="/images_readme/p8.jpg" width="250"></td>
+            </tr>
+			
+        </table>
+    </center>
+</div>

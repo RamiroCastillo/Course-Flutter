@@ -44,8 +44,3 @@ class _SplashState extends State<Splash> {
     );
   }
 }
-/*@override
-State<StatefulWidget> createState() {
-  // TODO: implement createState
-  throw UnimplementedError();
-}*/

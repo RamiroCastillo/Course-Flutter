@@ -10,7 +10,7 @@ class FavoritesPage extends StatelessWidget {
         mainAxisAlignment: MainAxisAlignment.center,
         children: const [
           Icon(
-            Icons.home,
+            Icons.star,
             size: 150.0,
             color: Colors.amber,
           ),

@@ -1,0 +1,26 @@
+{
+  "name" : "Recetas",
+  "recipes" : [
+    {
+      "name": "Ensalada de papa con pollo",
+      "time": "40",
+      "image": "images/ensalada.png",
+      "ingredients": ["1 kg. de papas sabaneras peladas y cortadas en cubos","500 gr. de pechuga deshuesada","1 cucharada de aceite ","Sal y pimienta","½ cucharadita de cáscara de limón rallada","1 cucharada de jugo de limón","¼ taza de mayonesa","¼ taza de suero costeño o crema agria","1 cucharadita de mostaza"],
+      "preparation": ["Cocina las papas en agua con sal hasta que estén blanditas, pero sin perder su forma.Corta la pechuga en cuadros y agregua sal y pimienta.","En una sartén, dora los cuadritos de pollo en el aceite. Mezcla la mayonesa con el suero, el jugo de limón, la cáscara de limón y la mostaza. Cuando las papas y el pollo estén fríos, revuélvelos con la salsa, los vegetales y revisa sal y pimienta. Decora con un poco de perejil picado."]
+    },
+    {
+      "name": "Arroz con mix de Carnes frias",
+      "time": "45",
+      "image": "images/arroz.jpeg",
+      "ingredients": ["2 Tazas de arroz","1 cucharada de aceite ","Sal y pimienta","500gr de mix de carnes frías ","1 Taza de maiz tierno ","1 Taza de arveja","Sal y pimienta al gusto"],
+      "preparation": ["Se cocina las 2 tazas de arroz en cuatro tazas de agua, se agrega sal y pimienta al gusto.","Aparte de cocinan las arvejas y el maíz hasta que esten bien cocinados.","Se fríe el mix de carnes frías. En un poco de mantequilla con el maíz y las arvejas previamente cocinadas. Luego de freír los ingredientes, se agrega esto al arroz ya cocinado, quedando todo bien integrado.","Se sirve caliente, y se adrona con ramita de perejil."]
+    },
+    {
+      "name": "Chuleta de pechuga a la plancha",
+      "time": "30",
+      "image": "images/chuleta.jpeg",
+      "ingredients": ["4 Chuletas de pechuga","1 cucharada de aceite ","Sal y pimienta","1 Libra de papa","2 Cucharadas de mantequilla","3 Cucharadas de aceite","Sal y pimienta al gusto","Cilantro (opcional)"],
+      "preparation": ["Sazonar las chuletas con sal pimienta, pelar y cocinar las papas con sal hasta que esten blandas, escurrir y hacer puré agregando la mantequilla, cilantro (opcional) y la crema de leche al gusto.","En unaplancha con aceite caliente se cocinan las chuletas de pechuga, hasta que estén bien cocidas.","Servir las chuletas de pechuga con el puré de papa caliente, acompañar con salsa o ensalada."]
+    }
+  ]
+}
